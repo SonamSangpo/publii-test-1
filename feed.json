@@ -1,0 +1,123 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test 1",
+    "description": "",
+    "home_page_url": "https://github.com/SonamSangpo/publii-test-1",
+    "feed_url": "https://github.com/SonamSangpo/publii-test-1/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sonam"
+    },
+    "items": [
+        {
+            "id": "https://github.com/SonamSangpo/publii-test-1/bingo.html",
+            "url": "https://github.com/SonamSangpo/publii-test-1/bingo.html",
+            "title": "bingo",
+            "summary": "Jimini",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/bruce-edwards-639037-unsplash.jpg\" ><img src=\"https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/bruce-edwards-639037-unsplash-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/derek-thomson-330312-unsplash.jpg\" ><img src=\"https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/derek-thomson-330312-unsplash-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\nJimini",
+            "image": "https://github.com/SonamSangpo/publii-test-1/media/posts/7/",
+            "author": {
+                "name": "Sonam"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-29T20:08:11+00:00",
+            "date_modified": "2018-11-29T21:52:22+00:00"
+        },
+        {
+            "id": "https://github.com/SonamSangpo/publii-test-1/glooopy.html",
+            "url": "https://github.com/SonamSangpo/publii-test-1/glooopy.html",
+            "title": "Glooopy",
+            "summary": "We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow&hellip;",
+            "content_html": "We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow the paint to break to make it beautiful. Even the worst thing we can do here is good.<br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.",
+            "image": "https://github.com/SonamSangpo/publii-test-1/media/posts/6/",
+            "author": {
+                "name": "Sonam"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2018-11-29T20:07:27+00:00",
+            "date_modified": "2018-11-29T20:07:27+00:00"
+        },
+        {
+            "id": "https://github.com/SonamSangpo/publii-test-1/gety.html",
+            "url": "https://github.com/SonamSangpo/publii-test-1/gety.html",
+            "title": "gety",
+            "summary": "We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow&hellip;",
+            "content_html": "We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow the paint to break to make it beautiful. Even the worst thing we can do here is good.<br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.",
+            "image": "https://github.com/SonamSangpo/publii-test-1/media/posts/5/",
+            "author": {
+                "name": "Sonam"
+            },
+            "tags": [
+                   "bob"
+            ],
+            "date_published": "2018-11-29T20:07:11+00:00",
+            "date_modified": "2018-11-29T20:07:11+00:00"
+        },
+        {
+            "id": "https://github.com/SonamSangpo/publii-test-1/more-more.html",
+            "url": "https://github.com/SonamSangpo/publii-test-1/more-more.html",
+            "title": "more more",
+            "summary": "We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow&hellip;",
+            "content_html": "We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow the paint to break to make it beautiful. Even the worst thing we can do here is good.<br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.",
+            "image": "https://github.com/SonamSangpo/publii-test-1/media/posts/4/",
+            "author": {
+                "name": "Sonam"
+            },
+            "tags": [
+                   "bob"
+            ],
+            "date_published": "2018-11-29T20:06:47+00:00",
+            "date_modified": "2018-11-29T20:07:00+00:00"
+        },
+        {
+            "id": "https://github.com/SonamSangpo/publii-test-1/second-wiv-tags.html",
+            "url": "https://github.com/SonamSangpo/publii-test-1/second-wiv-tags.html",
+            "title": "second wiv tags",
+            "summary": "just some more general information in here",
+            "content_html": "just some more general information in here",
+            "image": "https://github.com/SonamSangpo/publii-test-1/media/posts/3/",
+            "author": {
+                "name": "Sonam"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2018-11-29T20:03:46+00:00",
+            "date_modified": "2018-11-29T20:03:46+00:00"
+        },
+        {
+            "id": "https://github.com/SonamSangpo/publii-test-1/others.html",
+            "url": "https://github.com/SonamSangpo/publii-test-1/others.html",
+            "title": "others",
+            "summary": "this is some info",
+            "content_html": "this is some info",
+            "image": "https://github.com/SonamSangpo/publii-test-1/media/posts/2/",
+            "author": {
+                "name": "Sonam"
+            },
+            "tags": [
+                   "new"
+            ],
+            "date_published": "2018-11-29T20:03:06+00:00",
+            "date_modified": "2018-11-29T20:03:06+00:00"
+        },
+        {
+            "id": "https://github.com/SonamSangpo/publii-test-1/some-info.html",
+            "url": "https://github.com/SonamSangpo/publii-test-1/some-info.html",
+            "title": "Some info",
+            "summary": "Lorem, impusum, dolar sit amet",
+            "content_html": "Lorem, impusum, dolar sit amet",
+            "image": "https://github.com/SonamSangpo/publii-test-1/media/posts/1/IMG-20180307-WA0009-01.jpeg",
+            "author": {
+                "name": "Sonam"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-29T19:51:12+00:00",
+            "date_modified": "2018-11-29T19:51:12+00:00"
+        }
+    ]
+}
