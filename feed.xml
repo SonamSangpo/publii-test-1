@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>test 1</title>
-    <link href="https://github.com/SonamSangpo/publii-test-1/feed.xml" rel="self" />
-    <link href="https://github.com/SonamSangpo/publii-test-1" />
-    <updated>2018-12-20T13:47:48+00:00</updated>
+    <link href="https://sonamsangpo.github.io/publii-test-1/feed.xml" rel="self" />
+    <link href="https://sonamsangpo.github.io/publii-test-1" />
+    <updated>2018-12-20T13:51:47+00:00</updated>
     <author>
         <name>Sonam</name>
     </author>
-    <id>https://github.com/SonamSangpo/publii-test-1</id>
+    <id>https://sonamsangpo.github.io/publii-test-1</id>
 
     <entry>
         <title>bingo</title>
         <author>
             <name>Sonam</name>
         </author>
-        <link href="https://github.com/SonamSangpo/publii-test-1/bingo.html"/>
-        <id>https://github.com/SonamSangpo/publii-test-1/bingo.html</id>
+        <link href="https://sonamsangpo.github.io/publii-test-1/bingo.html"/>
+        <id>https://sonamsangpo.github.io/publii-test-1/bingo.html</id>
 
         <updated>2018-11-29T21:52:22+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/7/" alt="" />
+                        <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/7/" alt="" />
                     Jimini
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/7/" alt="" />
+                    <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/7/" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/bruce-edwards-639037-unsplash.jpg" ><img src="https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/bruce-edwards-639037-unsplash-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/derek-thomson-330312-unsplash.jpg" ><img src="https://github.com/SonamSangpo/publii-test-1/media/posts/7/gallery/derek-thomson-330312-unsplash-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://sonamsangpo.github.io/publii-test-1/media/posts/7/gallery/bruce-edwards-639037-unsplash.jpg" ><img src="https://sonamsangpo.github.io/publii-test-1/media/posts/7/gallery/bruce-edwards-639037-unsplash-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://sonamsangpo.github.io/publii-test-1/media/posts/7/gallery/derek-thomson-330312-unsplash.jpg" ><img src="https://sonamsangpo.github.io/publii-test-1/media/posts/7/gallery/derek-thomson-330312-unsplash-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div>
 Jimini
             ]]>
@@ -40,20 +40,20 @@ Jimini
         <author>
             <name>Sonam</name>
         </author>
-        <link href="https://github.com/SonamSangpo/publii-test-1/glooopy.html"/>
-        <id>https://github.com/SonamSangpo/publii-test-1/glooopy.html</id>
+        <link href="https://sonamsangpo.github.io/publii-test-1/glooopy.html"/>
+        <id>https://sonamsangpo.github.io/publii-test-1/glooopy.html</id>
             <category term="new"/>
 
         <updated>2018-11-29T20:07:27+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/6/" alt="" />
+                        <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/6/" alt="" />
                     We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/6/" alt="" />
+                    <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/6/" alt="" />
                 We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow the paint to break to make it beautiful. Even the worst thing we can do here is good.<br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.
             ]]>
         </content>
@@ -63,20 +63,20 @@ Jimini
         <author>
             <name>Sonam</name>
         </author>
-        <link href="https://github.com/SonamSangpo/publii-test-1/gety.html"/>
-        <id>https://github.com/SonamSangpo/publii-test-1/gety.html</id>
+        <link href="https://sonamsangpo.github.io/publii-test-1/gety.html"/>
+        <id>https://sonamsangpo.github.io/publii-test-1/gety.html</id>
             <category term="bob"/>
 
         <updated>2018-11-29T20:07:11+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/5/" alt="" />
+                        <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/5/" alt="" />
                     We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/5/" alt="" />
+                    <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/5/" alt="" />
                 We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow the paint to break to make it beautiful. Even the worst thing we can do here is good.<br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.
             ]]>
         </content>
@@ -86,20 +86,20 @@ Jimini
         <author>
             <name>Sonam</name>
         </author>
-        <link href="https://github.com/SonamSangpo/publii-test-1/more-more.html"/>
-        <id>https://github.com/SonamSangpo/publii-test-1/more-more.html</id>
+        <link href="https://sonamsangpo.github.io/publii-test-1/more-more.html"/>
+        <id>https://sonamsangpo.github.io/publii-test-1/more-more.html</id>
             <category term="bob"/>
 
         <updated>2018-11-29T20:07:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/4/" alt="" />
+                        <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/4/" alt="" />
                     We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/4/" alt="" />
+                    <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/4/" alt="" />
                 We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow the paint to break to make it beautiful. Even the worst thing we can do here is good.<br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.
             ]]>
         </content>
@@ -109,20 +109,20 @@ Jimini
         <author>
             <name>Sonam</name>
         </author>
-        <link href="https://github.com/SonamSangpo/publii-test-1/second-wiv-tags.html"/>
-        <id>https://github.com/SonamSangpo/publii-test-1/second-wiv-tags.html</id>
+        <link href="https://sonamsangpo.github.io/publii-test-1/second-wiv-tags.html"/>
+        <id>https://sonamsangpo.github.io/publii-test-1/second-wiv-tags.html</id>
             <category term="new"/>
 
         <updated>2018-11-29T20:03:46+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/3/" alt="" />
+                        <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/3/" alt="" />
                     just some more general information in here
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/3/" alt="" />
+                    <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/3/" alt="" />
                 just some more general information in here
             ]]>
         </content>
@@ -132,20 +132,20 @@ Jimini
         <author>
             <name>Sonam</name>
         </author>
-        <link href="https://github.com/SonamSangpo/publii-test-1/others.html"/>
-        <id>https://github.com/SonamSangpo/publii-test-1/others.html</id>
+        <link href="https://sonamsangpo.github.io/publii-test-1/others.html"/>
+        <id>https://sonamsangpo.github.io/publii-test-1/others.html</id>
             <category term="new"/>
 
         <updated>2018-11-29T20:03:06+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/2/" alt="" />
+                        <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/2/" alt="" />
                     this is some info
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/2/" alt="" />
+                    <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/2/" alt="" />
                 this is some info
             ]]>
         </content>
@@ -155,19 +155,19 @@ Jimini
         <author>
             <name>Sonam</name>
         </author>
-        <link href="https://github.com/SonamSangpo/publii-test-1/some-info.html"/>
-        <id>https://github.com/SonamSangpo/publii-test-1/some-info.html</id>
+        <link href="https://sonamsangpo.github.io/publii-test-1/some-info.html"/>
+        <id>https://sonamsangpo.github.io/publii-test-1/some-info.html</id>
 
         <updated>2018-11-29T19:51:12+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/1/IMG-20180307-WA0009-01.jpeg" alt="" />
+                        <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/1/IMG-20180307-WA0009-01.jpeg" alt="" />
                     Lorem, impusum, dolar sit amet
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/SonamSangpo/publii-test-1/media/posts/1/IMG-20180307-WA0009-01.jpeg" alt="" />
+                    <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/1/IMG-20180307-WA0009-01.jpeg" alt="" />
                 Lorem, impusum, dolar sit amet
             ]]>
         </content>
