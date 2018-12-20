@@ -3,7 +3,7 @@
     <title>test 1</title>
     <link href="https://sonamsangpo.github.io/publii-test-1/feed.xml" rel="self" />
     <link href="https://sonamsangpo.github.io/publii-test-1" />
-    <updated>2018-12-20T13:56:53+00:00</updated>
+    <updated>2018-12-20T13:59:18+00:00</updated>
     <author>
         <name>Sonam</name>
     </author>
@@ -44,7 +44,7 @@ Jimini
         <id>https://sonamsangpo.github.io/publii-test-1/glooopy.html</id>
             <category term="new"/>
 
-        <updated>2018-12-20T13:56:45+00:00</updated>
+        <updated>2018-12-20T13:59:10+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/6/" alt="" />
@@ -56,7 +56,7 @@ Jimini
                     <img src="https://sonamsangpo.github.io/publii-test-1/media/posts/6/" alt="" />
                 <p>We'll put some happy little leaves here and there. It's important to me that you're happy. Talk to trees, look at the birds. Whatever it takes. Now we don't want him to get lonely, so we'll give him a little friend. You have to allow the paint to break to make it beautiful. Even the worst thing we can do here is good.</p>
 <script type="text/javascript">// <![CDATA[
-  function ShopifyBuyInit() {
+function ShopifyBuyInit() {
     var client = ShopifyBuy.buildClient({
       domain: 'embeds.myshopify.com',
       apiKey: '952162710f94aa7b7644b14b2a94f4a3',
@@ -96,7 +96,8 @@ Jimini
   }
 })();
 // ]]></script>
-<div id="'product-component"><br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.</div>
+<div id="product-component-05cfb487fb6"> </div>
+<br><br>Let's make a happy little mountain now. At home you have unlimited time. We're trying to teach you a technique here and how to use it. Think about a cloud. Just float around and be there. Do an almighty painting with us. Learn when to stop.<br><br>You better get your coat out, this is going to be a cold painting. Everything's not great in life, but we can still find beauty in it. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start.
             ]]>
         </content>
     </entry>
